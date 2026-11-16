@@ -1,8 +1,8 @@
 # 📈 StockIt – The Stock Analysis Agent
 
-\<p align="center">   \<b>An AI-powered stock analysis dashboard.\</b>   \<br>   Explore stocks, analyse company fundamentals, visualise market trends and interact with an AI assistant. \</p>
+<p align="center">   \<b>An AI-powered stock analysis dashboard.\</b>   \<br>   Explore stocks, analyse company fundamentals, visualise market trends and interact with an AI assistant. \</p>
 
-\<p align="center">   ![Python]\([https://img.shields.io/badge/Python-3.x-blue?logo=python](https://img.shields.io/badge/Python-3.x-blue?logo=python))   ![Streamlit]\([https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit))   ![AI]\([https://img.shields.io/badge/AI-Powered-orange](https://img.shields.io/badge/AI-Powered-orange)) \</p>
+<p align="center">   ![Python]\([https://img.shields.io/badge/Python-3.x-blue?logo=python](https://img.shields.io/badge/Python-3.x-blue?logo=python))   ![Streamlit]\([https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit))   ![AI]\([https://img.shields.io/badge/AI-Powered-orange](https://img.shields.io/badge/AI-Powered-orange)) \</p>
 
 ---
 
