@@ -1,8 +1,8 @@
 # 📈 StockIt – The Stock Analysis Agent
 
-<p align="center">   \<b>An AI-powered stock analysis dashboard.\</b>   \<br>   Explore stocks, analyse company fundamentals, visualise market trends and interact with an AI assistant. \</p>
+\<p align="center">   \<b>An AI-powered stock analysis dashboard.\</b>\<br>   Explore stocks, analyse company fundamentals, visualise market trends and interact with an AI assistant. \</p>
 
-<p align="center">   ![Python]\([https://img.shields.io/badge/Python-3.x-blue?logo=python](https://img.shields.io/badge/Python-3.x-blue?logo=python))   ![Streamlit]\([https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit))   ![AI]\([https://img.shields.io/badge/AI-Powered-orange](https://img.shields.io/badge/AI-Powered-orange)) \</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python](https://img.shields.io/badge/Python-3.x-blue?logo=python)" alt="Python">   \<img src="[https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)" alt="Streamlit">   \<img src="[https://img.shields.io/badge/AI-Powered-orange](https://img.shields.io/badge/AI-Powered-orange)" alt="AI Powered"> \</p>
 
 ---
 
@@ -24,11 +24,9 @@
 - Yahoo Finance
 - Groq AI
 
-## 📸 About the Project
+## 📌 About
 
-StockIt brings stock market information and AI-assisted explanations together in one interactive dashboard.
-
-The project aims to make financial data easier to explore and understand through data visualisation and artificial intelligence.
+StockIt combines stock market data, interactive visualisations and AI-assisted explanations in one dashboard.
 
 ## ⚙️ Run Locally
 
