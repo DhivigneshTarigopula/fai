@@ -3,9 +3,9 @@
 <p align="center">   <b>An AI-powered stock analysis dashboard.</b><br>   Explore stocks, analyse company fundamentals, visualise market trends and interact with an AI assistant.</p>
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
-  ![AI](https://img.shields.io/badge/AI-Powered-orange)
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">  
+  <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">  
+  <img src="https://img.shields.io/badge/AI-Powered-orange" alt="AI Powered">
 </p>
 
 ---
