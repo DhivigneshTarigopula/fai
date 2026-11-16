@@ -2,7 +2,7 @@
 
 <p align="center">   <b>An AI-powered stock analysis dashboard.</b><br>   Explore stocks, analyse company fundamentals, visualise market trends and interact with an AI assistant.</p>
 
-<p align="center">   <img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python](https://img.shields.io/badge/Python-3.x-blue?logo=python)" alt="Python">   <img src="[https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)" alt="Streamlit">   <img src="[https://img.shields.io/badge/AI-Powered-orange](https://img.shields.io/badge/AI-Powered-orange)" alt="AI Powered"> </p>
+<p align="center">   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">   <img src="[https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)" alt="Streamlit">   <img src="[https://img.shields.io/badge/AI-Powered-orange](https://img.shields.io/badge/AI-Powered-orange)" alt="AI Powered"> </p>
 
 ---
 
